@@ -1,2 +1,2 @@
-# PowerBi DashBoard 
+# Analisis y previsión de series temporales
 ## En obras
